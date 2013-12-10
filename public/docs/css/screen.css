@@ -83,6 +83,9 @@ div.media { margin: 0px 0px 10px; }
 div#content div.description { margin: 0px 0px 0px 20px; }
 div.description div#media { margin: 0px 0px 10px; border: 0px; padding: 0px; }
 
+.image{
+	max-width:530px;
+}
 .seven p img{
 	max-width:530px;
 	float:left;
