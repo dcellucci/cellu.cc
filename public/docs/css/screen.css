@@ -85,6 +85,7 @@ div.description div#media { margin: 0px 0px 10px; border: 0px; padding: 0px; }
 
 div.image img{
 	max-width:530px;
+	height: auto;
 }
 .seven p img{
 	max-width:530px;
