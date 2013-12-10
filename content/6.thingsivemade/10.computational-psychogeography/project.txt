@@ -1,0 +1,56 @@
+title: Computational Psychogeography
+-
+date: 2011, Nov–
+-
+content: 
+I generated a computational tool for visualizing and exploring data captured with a Situationist technique known as the dérive. I used this tool to explore the psychogeographical contours of the city of Atlanta, in particular its relationship with its transportation infrastructure.
+-
+keywords: geography, urbanism, computation, cartography
+-
+writeup:
+![Alt Text](@pathcorridor.jpg)
+
+My interest in the study of the dérive has largely to do with the fact that it is one of the most perfect examples of an experiential process. It manages to take the complex, multifaceted problem of human geography and, through self-experimentation, produce a result that engages the underlying topology of a city’s psychology in an entirely intuitive way. It, like censuses (censi?), surveys, and other traditional means of data collection in the world of cartography, provides the information from which maps can be constructed to represent the data geographically, but it differentiates itself from these other sets in that it seeks to understand the problem of urban cartography from the bottom-up rather than the top-down. It is therefore simultaneously a very powerful and a very limited technique; powerful in that it can collect valuable information on an extremely complex system like an urban space without a large amount of data collection, but limited in that this information is largely anecdotal.
+
+I wanted to take this fundamentally imprecise process and bring into it a more rigorous structure without forsaking the intuitive quality that gave it such power. Therefore, I sought to construct a framework that allowed me to collect information regarding my movements seamlessly, allowing me to perform the dérive without interruption, then analyze the collected data later. As a result, I constructed a set of augmentations that could passively collect information regarding my experience without requiring my input.
+This particular project sought to isolate one single aspect of the dérive experience, location, and take this single dataset through the entire process of collection, collation, and presentation. The first tool for collecting GPS information was my phone, using the app Google Tracks. However, I found that more precise detailing of my location was necessary (the GPS on smartphones is, unfortunately, rather finicky) so I constructed a shield for my Arduino that captured and collected data from a far more accurate GPS device.
+
+![Alt Text](@pathguidepsy.jpg)
+
+Through study of both the process of the dérive as well as the Guide Psychogeographique De Paris, I came to realize that one of the preeminent contours that defined the psychological terrain of Paris was the Seine- not just as a geographic feature that split the city, but as a source of architectural influence in the form of the bridge and the views of the city afforded by the river. The Seine is largely absent in the Guide, though its existence is implicit in the orientation of the flow arrows that attempt to cross it.
+
+All cities are built upon transportation, and in many cases the geographic location of a given metropolis can help indicate the original intent or time period of its founding. Cities like New York, London, and Paris are located in close proximity to the most convenient thoroughfare of the era of their founding: water. Where Boston has the Charles River, London the Thames, and New York the Hudson and the East, these cities’ origins as ports resulted from being founded in a time when travel by water was the most advantageous means of transference. With the rise of industry in the 19th century various forms of land transportation- first the railroad and then the automobile- usurped the river as the primary means of travel in the western world. Cities built after this change in paradigm reflect this shift geographically, as their locations are not necessarily situated near convenient bodies of water.
+
+![Alt Text](@path/missingbridge.jpg)
+
+Atlanta is the premier example of one of these such cities. Originally named Terminus, the town-to-be was situated at the end of the Western and Atlantic Railroad. As a result, industrial innovations of transportation have been woven into the fabric of the city from its very beginning. The historic location of this terminal line is the current location of the Georgia World Congress Center, which is situated in the very heart of the city. Even until the early twentieth century this railroad station was present and a part of the growing metropolis. However, with the rise of the automobile in the years following World War II, the railroad declined in prominence and was soon replaced in the mid 1950s by the creation of the I-75/I-85 corridor (Even the symbol of the most prominent school of the Atlanta Core, Georgia Tech, is a 1930 Ford Model A Sport Coupe).
+
+If one examines a map of the Downtown-Midtown sections of Atlanta, the presence of this interstate corridor becomes readily apparent as a major geographical feature similar to that of the Seine in Paris. Like the Seine, the interstate undulates through the urban space, effectively splitting the city into two. Additionally, the nature of the corridor makes it so that the opportunities to cross the space are only possible at specific points along its length. These points become architectural features in and of themselves, since the details of their construction can either invite or discourage performers of the dérive to cross the intervening space.
+
+I saw a unique opportunity with this hypothesis regarding the role of “rivers” in the growth of Atlanta and Paris to simultaneously test my apparatus and also investigate the qualities of my home city. In all, I performed about 15 dérives around the downtown/midtown area along the corridor, allowing my location to be collected by the two GPS devices I had on my person. From these 15 surveys I chose 77 data points around the Metro Atlanta area, each of which was assigned a set of GPS coordinates and a value θ. This second value represented a direction of flow at each point, where 0 represented due east on the map, and 180 represented due west. Together, these 77 points created the basis set for a field whose full extent I could then interpolate. I imported the data points into Matlab and produced a grid of flow values that represented the total field implied by the 77 sample points.
+
+![Alt Text](@path77points.jpg)
+
+#MATH ASIDE
+
+>In vector calculus, there is a powerful tool for analyzing fields called the gradient. The gradient is a vector representing the direction and magnitude of greatest change at a point on a surface. For instance, imagine you are standing on the side of a hill. To your left, perhaps, the terrain slopes upward, while before you, it remains pretty much the same elevation and to your right the hill continues downward. If you headed to your right, then you’d be heading downward, likely close to the direction of steepest descent. This would be the gradient for the gravitational field defined by the hillside. Now an interesting thing about the gradient is that, perpendicular to it is a direction that has no change in elevation. This direction of no change will trace out a contour about the field. In theory, one could travel along a contour and never expend any energy to do so, since all points on that curve are of equal height.
+
+>One can visualize each of these 77 dérive points as gradients in a psychogeographical field. The trick, then, is to take these vectors and construct a surface. To go back to the analogy of the hillside, I could stand at each point on the terrain and measure the gradient at each position. These gradients together would allow me to know the “shape” of the hillside at each of the points and, through this, construct a continuous surface by connecting together the “shapes”.
+
+>This is not how most vector calculus is done; usually you are given the field as an analytical equation and are asked to figure out the gradient. As a result, I had to hunt through the underbrush of algorithms until I found one that worked: called the Frankot-Chelappa formula. This algorithm uses something called the Fourier transform (don’t worry about it) to take an array of gradients and convert them to a scalar ‘height’. This ‘height’ then gives the structure of the surface that produced the gradients. It was originally conceived to solve a problem in computer vision, effectively giving a computer with a single camera a way of guessing the three dimensional shape of an object from only one vantage point by looking at the shapes of the shadows. In my case, it works just as well- instead of a gradient representing the transition from highlight to shadow, I instead have a vector representing a transition from higher potential to lower potential.
+
+#END ASIDE
+![Alt Text](@pathmathaside.jpg)
+
+
+Once I used the F-C algorithm on my dataset, I was able to produce a set of values whose contours nearly approximated the field I had constructed, and so I used these values to generate a three dimensional heightmap in Arc-GIS. I then overlayed the original map I used to layout the points as a texture, and was rewarded with a dramatic rendering of the freeway corridor as a ridge of high potential cutting through the lower pools located at Downtown the Midtown,which were united by a path that crossed the 5th street bridge.
+
+![Alt Text](@pathvirtualmap.jpg)
+
+![Alt Text](@pathmodernmap.jpg)
+
+But the true goal here was to examine the relationship between the continuing evolution of the city with its past spectres, most importantly its long-forgotten history as a railroad town. Atlanta is a unique case for the South in that- unlike Birmingham, New Orleans, Charleston, and even Savannah- it has purposefully elected to forsake its past and concentrate on defining its image as “The New South”. This is evidenced by the nonexistent preservation of antebellum architecture (much of which was burned anyway during the Civil War), as well as the slow retreat of the railroad over the past thirty years.
+
+![Alt Text](@patholdatl.jpg)
+
+In order to highlight this intrinsic characteristic of the city, I chose to render a 1927 survey of Atlanta, as it existed 30 years before the construction of the first freeway, whose street layout clashes strongly with the alien topography rendered by the program. The old Atlanta contained within this survey undulates over a terrain that would have been wholly alien to its citizens, not because of a shift in the physical geography but in the infrastructure of the city itself. 

@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>About, Daniel Cellucci's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="../?/feed/">
+		<link rel="stylesheet" href="../public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="background">
+		<div id="container">
+			<h1 class="col two">
+				<a href="../">Daniel Cellucci</a>
+				<em>Scientist</em>
+			</h1>
+			<h2 class="col two">
+				Research
+				<em>Past and Present</em>
+			</h2>
+			<p class="col six"><em>   
+  
+      <a href="../about/">About</a>,
+  
+      <a href="../contact-me/">Contact</a>,
+  
+ </em></p>
+			<hr>
+			<div id="content" class="col eight">
+				<p class="para col two"><em class="background">&para;</em></p>
+				<div class="description col six">
+					<h2><a href="../">About</a></h2>
+					<div id="media">
+  
+  
+  
+  
+  
+  
+  
+</div>
+					<p><em>I started out life as a physicist. Along the way I got distracted by sculpture and now I'm living the happy medium as a mechanical engineer. It is simultaneously the best and worst of both worlds.</em></p>
+
+<p>I was once a student the University of Georgia where I studied computational condensed matter physics with Dr. Steven Lewis and sculpture with Prof. RG Brown. I made a couple of really cool works, wrote a thesis on tin oxide nanofilms, and now I'm at Cornell working on a PhD in mechanical engineering with Dr. Hod Lipson.</p>
+
+				</div>
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Daniel Cellucci 2013 <a class="atom-rss" href="../?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		<div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->

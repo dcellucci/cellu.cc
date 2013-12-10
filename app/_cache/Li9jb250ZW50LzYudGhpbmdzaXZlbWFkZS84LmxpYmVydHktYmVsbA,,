@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Liberty Bell, Daniel Cellucci's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="../../?/feed/">
+		<link rel="stylesheet" href="../../public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="background">
+		<div id="container">
+			<h1 class="col two">
+				<a href="../../">Daniel Cellucci</a>
+				<em>Scientist</em>
+			</h1>
+			<h2 class="col two">
+				Research
+				<em>Past and Present</em>
+			</h2>
+			<p class="col six"><em>   
+  
+      <a href="../../about/">About</a>,
+  
+      <a href="../../contact-me/">Contact</a>,
+  
+ </em></p>
+			<hr>
+			<div id="content" class="col seven">
+				
+									<div id="media">
+      	<div class="image">
+		<img src="../../content/6.thingsivemade/8.liberty-bell/01.jpg" alt="Liberty Bell" width="782" height="954">
+    
+	</div>
+
+  
+  
+      	<div class="media">
+		<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="540" height="600" >
+			<param name="src" value="../../content/6.thingsivemade/8.liberty-bell/2.540x600.mov">
+			<param name="autoplay" value="false">
+			<param name="controller" value="true">
+			<embed src="../../content/6.thingsivemade/8.liberty-bell/2.540x600.mov" width="540" height="600" autoplay="false" controller="true" pluginspage="http://www.apple.com/quicktime/download/"></embed>
+		</object>
+	</div>
+
+  
+  
+  
+  
+  
+</div>
+				
+			</div>
+			<div class="description col three">
+				<p><a href="../../">Liberty Bell</a></p>
+				<p><em>2011, Nov–</em></p>
+				<p><em class="background">&ndash; acoustics, simulation, reconstruction</em></p>
+				<p>The piece involves the text on the all, writ with the dimensions 63'' tall by 38'' wide. In the background plays the sound of a bell. Except it isn't any bell- it is a computationally reconstructed tone of what the Liberty Bell would have sounded like, with the gash. It isn't rung anymore, except in occasions where it's lightly tapped. Scroll down if you'd like to see a simulation of the two paired with one another.
+The text is my own creation, but the sound comes from the now-retired Gary Koopmann, who <a href="http://www.nps.gov/inde/thelibertybellsounds.htm">simulated the Liberty Bell</a> in order to find out its acoustics.</p>
+
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Daniel Cellucci 2013 <a class="atom-rss" href="../../?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->

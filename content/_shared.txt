@@ -1,0 +1,9 @@
+name: Daniel Cellucci
+-
+profession: Scientist
+-
+email: raygun.gothiq@gmail.com
+-
+sitetitle: Research
+-
+sitesubtitle: Past and Present

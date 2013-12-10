@@ -1,0 +1,6 @@
+title: Contact
+-
+content:
+The best way to get in touch is to email me at <dwc238@cornell.edu>
+If you'd like to see what I'm currently working on, check out my sketchbook at achates.info
+

@@ -1,0 +1,8 @@
+title: Crystal Structures
+-
+date: 2012, May–
+-
+content: 
+I used a program called Vesta and Illustrator to generate a series of line drawings derived from crystal structures. This first series is the diamond structure rendered in various forms. It's also the background for the site. 
+-
+keywords: diamond, rutile, crystallography, graphics

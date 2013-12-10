@@ -1,0 +1,9 @@
+title: Liberty Bell
+-
+date: 2011, Nov– 
+-
+content: 
+The piece involves the text on the all, writ with the dimensions 63'' tall by 38'' wide. In the background plays the sound of a bell. Except it isn't any bell- it is a computationally reconstructed tone of what the Liberty Bell would have sounded like, with the gash. It isn't rung anymore, except in occasions where it's lightly tapped. Scroll down if you'd like to see a simulation of the two paired with one another.
+The text is my own creation, but the sound comes from the now-retired Gary Koopmann, who [simulated the Liberty Bell](http://www.nps.gov/inde/thelibertybellsounds.htm) in order to find out its acoustics.
+-
+keywords: acoustics, simulation, reconstruction

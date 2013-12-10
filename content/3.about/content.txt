@@ -1,0 +1,6 @@
+title: About
+-
+content: 
+*I started out life as a physicist. Along the way I got distracted by sculpture and now I'm living the happy medium as a mechanical engineer. It is simultaneously the best and worst of both worlds.* 
+
+I was once a student the University of Georgia where I studied computational condensed matter physics with Dr. Steven Lewis and sculpture with Prof. RG Brown. I made a couple of really cool works, wrote a thesis on tin oxide nanofilms, and now I'm at Cornell working on a PhD in mechanical engineering with Dr. Hod Lipson. 

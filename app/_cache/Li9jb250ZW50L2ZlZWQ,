@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+
+  <title>Daniel Cellucci's Portfolio Feed</title>
+  <subtitle>Scientist</subtitle>
+  <link href="http://cellu.cc/feed//" hreflang="en" rel="self" type="application/atom+xml"/>
+  <link href="http://cellu.cc/" hreflang="en" rel="alternate" type="text/html"/>
+  
+  <updated>2013-07-21T10:03:31+10:00</updated>
+  <generator uri="http://staceyapp.com/" version="2.3.0">Stacey</generator>
+
+  <author>
+    <name>Daniel Cellucci</name>
+    <uri>http://cellu.cc</uri>
+  </author>
+
+  <id>tag:cellu.cc,2013:/feed/</id>
+  <rights>©2013 Daniel Cellucci</rights>
+    <entry>
+   <title>Things I've Made</title>
+   <id>tag:cellu.cc,2013:/thingsivemade/</id>
+   <updated>2013-07-21T10:03:27+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/thingsivemade/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Crystal Structures</title>
+   <id>tag:cellu.cc,2013:/thingsivemade/crystal-structures/</id>
+   <updated>2013-07-21T10:03:11+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/thingsivemade/crystal-structures/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.thingsivemade/11.crystal-structures/3.diamond.png" alt="Diamond."/>
+  <img src="./content/6.thingsivemade/11.crystal-structures/2.bands_par.png" alt="Bands par."/>
+  <img src="./content/6.thingsivemade/11.crystal-structures/1.di1a-01_t.png" alt="Di1a 01 t."/>
+
+          
+            <p>I used a program called Vesta and Illustrator to generate a series of line drawings derived from crystal structures. This first series is the diamond structure rendered in various forms. It's also the background for the site.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Computational Psychogeography</title>
+   <id>tag:cellu.cc,2013:/thingsivemade/computational-psychogeography/</id>
+   <updated>2013-07-21T10:03:07+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/thingsivemade/computational-psychogeography/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.thingsivemade/10.computational-psychogeography/77points.jpg" alt="77points."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/modernmap.jpg" alt="Modernmap."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/oldatl.jpg" alt="Oldatl."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/virtualmap.jpg" alt="Virtualmap."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/missingbridge.jpg" alt="Missingbridge."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/missingbridge.jpeg" alt="Missingbridge."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/corridor.jpg" alt="Corridor."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/guidepsy.jpg" alt="Guidepsy."/>
+  <img src="./content/6.thingsivemade/10.computational-psychogeography/mathaside.jpg" alt="Mathaside."/>
+
+          
+            <p>I generated a computational tool for visualizing and exploring data captured with a Situationist technique known as the dérive. I used this tool to explore the psychogeographical contours of the city of Atlanta, in particular its relationship with its transportation infrastructure.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Path Integrals</title>
+   <id>tag:cellu.cc,2013:/thingsivemade/path-integrals/</id>
+   <updated>2013-07-21T10:03:27+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/thingsivemade/path-integrals/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.thingsivemade/9.path-integrals/path2.jpg" alt="Path2."/>
+  <img src="./content/6.thingsivemade/9.path-integrals/path.jpg" alt="Path."/>
+
+          
+            <p>A work I made in response to the construction of "Levitating Mass". It is an illustration of an abstract scientific metaphor being applied in a utilitarian context.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Liberty Bell</title>
+   <id>tag:cellu.cc,2013:/thingsivemade/liberty-bell/</id>
+   <updated>2013-07-21T10:03:23+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/thingsivemade/liberty-bell/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/6.thingsivemade/8.liberty-bell/01.jpg" alt="01."/>
+
+          
+            <p>The piece involves the text on the all, writ with the dimensions 63'' tall by 38'' wide. In the background plays the sound of a bell. Except it isn't any bell- it is a computationally reconstructed tone of what the Liberty Bell would have sounded like, with the gash. It isn't rung anymore, except in occasions where it's lightly tapped. Scroll down if you'd like to see a simulation of the two paired with one another.
+The text is my own creation, but the sound comes from the now-retired Gary Koopmann, who <a href="http://www.nps.gov/inde/thelibertybellsounds.htm">simulated the Liberty Bell</a> in order to find out its acoustics.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>Research I've Done</title>
+   <id>tag:cellu.cc,2013:/researchivedone/</id>
+   <updated>2013-07-21T10:02:39+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/researchivedone/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+      </div>
+   </content>
+</entry>
+    <entry>
+   <title>Ribosomal Robotics</title>
+   <id>tag:cellu.cc,2013:/researchivedone/Ribosomal-Robotics/</id>
+   <updated>2013-07-21T10:02:39+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/researchivedone/Ribosomal-Robotics/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>A next generation robotics platform that uses the biological process of protein confirmation to produce</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Remote Sensing &#38; Sculpture</title>
+   <id>tag:cellu.cc,2013:/researchivedone/GPR-Work/</id>
+   <updated>2013-07-21T10:02:37+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/researchivedone/GPR-Work/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Computational Chemistry</title>
+   <id>tag:cellu.cc,2013:/researchivedone/DFT-Work/</id>
+   <updated>2013-07-21T10:02:37+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/researchivedone/DFT-Work/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>SONAR &#38; Submerged Sculpture</title>
+   <id>tag:cellu.cc,2013:/researchivedone/Sonar-Work/</id>
+   <updated>2013-07-21T10:02:36+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/researchivedone/Sonar-Work/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/5.researchivedone/5.Sonar-Work/04.jpg" alt="04."/>
+  <img src="./content/5.researchivedone/5.Sonar-Work/03.jpg" alt="03."/>
+  <img src="./content/5.researchivedone/5.Sonar-Work/02.jpg" alt="02."/>
+  <img src="./content/5.researchivedone/5.Sonar-Work/01.jpg" alt="01."/>
+
+          
+            <p>I worked with UGA Sculpture Professor RG Brown, in what he calls his 'artistic research'. Collaborating with researchers in Geology, Geography, and Music, we sought to apply remote sensing technologies to the imaging of submerged or buried sculpture, and produced multiple works that represented these captured datasets as physical forms.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+  <entry>
+   <title>About</title>
+   <id>tag:cellu.cc,2013:/about/</id>
+   <updated>2013-07-21T10:02:36+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/about/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          
+          
+            <p><em>I started out life as a physicist. Along the way I got distracted by sculpture and now I'm living the happy medium as a mechanical engineer. It is simultaneously the best and worst of both worlds.</em></p>
+
+<p>I was once a student the University of Georgia where I studied computational condensed matter physics with Dr. Steven Lewis and sculpture with Prof. RG Brown. I made a couple of really cool works, wrote a thesis on tin oxide nanofilms, and now I'm at Cornell working on a PhD in mechanical engineering with Dr. Hod Lipson.</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+  <entry>
+   <title>Contact</title>
+   <id>tag:cellu.cc,2013:/contact-me/</id>
+   <updated>2013-07-21T10:02:35+10:00</updated>
+   <summary>@page_description</summary>
+   <link rel="alternate" type="text/html" href="http://cellu.cc/contact-me/" />
+   <content type="xhtml" xml:lang="en">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+            <img src="./content/2.contact-me/01.jpg" alt="01."/>
+
+          
+            <p>The best way to get in touch is to email me at <a href="&#38;#109;&#38;#97;&#38;#105;&#38;#x6c;&#38;#x74;o&#38;#58;&#38;#100;&#38;#119;&#38;#x63;&#38;#x32;3&#38;#56;&#38;#64;&#38;#99;&#38;#x6f;&#38;#x72;n&#38;#101;&#38;#108;&#38;#x6c;&#38;#x2e;&#38;#x65;d&#38;#117;">&#38;#100;&#38;#119;&#38;#x63;&#38;#x32;3&#38;#56;&#38;#64;&#38;#99;&#38;#x6f;&#38;#x72;n&#38;#101;&#38;#108;&#38;#x6c;&#38;#x2e;&#38;#x65;d&#38;#117;</a>
+If you'd like to see what I'm currently working on, check out my sketchbook at achates.info</p>
+
+          
+      </div>
+   </content>
+</entry>
+  
+
+
+</feed>
+<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->

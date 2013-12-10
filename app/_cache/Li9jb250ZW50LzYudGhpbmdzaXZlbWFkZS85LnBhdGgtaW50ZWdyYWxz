@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+	"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<title>Path Integrals, Daniel Cellucci's Portfolio</title>
+		<link rel="alternate" type="application/atom+xml" href="../../?/feed/">
+		<link rel="stylesheet" href="../../public/docs/css/screen.css" type="text/css" media="screen"> 
+	</head>
+	<body>
+		<div id="background">
+		<div id="container">
+			<h1 class="col two">
+				<a href="../../">Daniel Cellucci</a>
+				<em>Scientist</em>
+			</h1>
+			<h2 class="col two">
+				Research
+				<em>Past and Present</em>
+			</h2>
+			<p class="col six"><em>   
+  
+      <a href="../../about/">About</a>,
+  
+      <a href="../../contact-me/">Contact</a>,
+  
+ </em></p>
+			<hr>
+			<div id="content" class="col seven">
+									<p><img src="../../content/6.thingsivemade/9.path-integrals/path.jpg" alt="Alt Text"></p>
+
+<p>This project began with a <a href="http://bldgblog.blogspot.com/2011/10/carry-that-weight.html">story about a big rock</a>. Specifically, a 340-ton rock from the stone valley quarry about 60 miles outside Los Angeles. According to Geoff Manaugh of BLDGBLOG (who was, in turn, citing an article from the <a href="http://www.nytimes.com/2011/10/08/arts/design/los-angeles-county-museum-moves-a-340-ton-rock.html?_r=0">New York Times</a>)</p>
+
+<blockquote>
+  <p>…the rock’s specific route never relied on one path through that “bewildering thicket,” but has been constantly updated and changed; as Michael Govan, director of the Los Angeles County Museum of Art, where Heizer’s rock will be displayed, points out, “the State of California is always reviewing the state of its bridges and roads. So a route plan that would have worked a couple of days ago doesn’t work today.”</p>
+</blockquote>
+
+<p>It is this discussion of constantly changing paths that reminds me of one of the more exotic reformulations of quantum mechanics called path integral mechanics, pioneered by Paul Dirac in the thirties and perfected by Richard Feynman in the forties. It was and remains a bizarre take on how particles propagate through space. Instead of looking at the evolution of a localized wavefunction like in Schrodinger wave mechanics, the Feynman path integral formulation might know the start and end states of the system, but not the intervening trajectory taken between those states.</p>
+
+<p>In effect, a particle traveling between points A and B travels every single path simultaneously until it is observed, at which point it collapses to a single path with a probability commiserate with the action expended to travel that trajectory. The inherent quantum uncertainty of the system is built into these infinite paths, each tracing out a universe of different futures in which the particle evolves.</p>
+
+<p>I read about this massive boulder, a hulking sculpture of a size and scale never conceived to be transported on the roads it is utilizing, and I imagine the path integral these architects and engineers are unintentionally performing by trying to chart a route that navigates around unsafe bridges, traffic jams, and a hundred other dangers in order to move the boulder from the quarry to the museum. The “path” of this particle has been charted with every single permutation and combination taken into account, each proposed route tested for its feasibility, economy, and efficiency- its action.</p>
+
+<p><img src="../../content/6.thingsivemade/9.path-integrals/path2.jpg" alt="Alt Text"></p>
+
+<p>The program I wrote is a visualization of this process, perhaps more in spirit than in practice. It utilizes Google Maps’ directions service to chart the shortest drivable route between the quarry and the museum. It then takes various points along that route and permutes them randomly, producing a series of alternate paths that the boulder could take. Each path is assigned an opacity according to distance- my primitive recasting of the action of each trajectory. Some of the routes are reasonable, perhaps moving to a different freeway, but some border on the insane. I can’t imagine this gargantuan creature trundling through a quiet suburban neighborhood, dwarfing the small ranch houses it’s passing, or slowly crawling up the size of an oil field only to turn around at the summit.</p>
+
+<p>The result is a probability space, a spectrum of possible futures, a quantum reformalization of an unquestionably classical object. Whereas statistical fluctuations and the small scale of energy quantization make the findings of quantum mechanics negligible compared to the deterministic classical mechanics when the objects being examined grow in size, it is, in fact, the massive weight of this boulder that makes its route so paradoxically uncertain, so prone to fluctuation. The difference between the boulder in question and a subatomic particle is that, while uncertainty of the subatomic particle is an actual, measurable thing, the fluctuations of this object’s path exist entirely in our mind.</p>
+
+				
+				
+			</div>
+			<div class="description col three">
+				<p><a href="../../">Path Integrals</a></p>
+				<p><em>2011, Nov–</em></p>
+				<p><em class="background">&ndash; physics, architecture, quantum mechanics, cartography, google maps hacks</em></p>
+				<p>A work I made in response to the construction of "Levitating Mass". It is an illustration of an abstract scientific metaphor being applied in a utilitarian context.</p>
+
+			</div>
+			<hr>
+			<p id="footer" class="col six">&copy; Copyright Daniel Cellucci 2013 <a class="atom-rss" href="../../?/feed/">RSS</a><br>
+				<em>Content managed by <a href="http://www.staceyapp.com">Stacey</a></em></p>
+		</div>
+		</div>
+	</body>
+</html>
+<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->

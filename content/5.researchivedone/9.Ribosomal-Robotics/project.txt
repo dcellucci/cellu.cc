@@ -1,0 +1,11 @@
+title: Ribosomal Robotics
+-
+date: 2012, Aug–
+-
+content: 
+A next generation robotics platform that uses the biological process of protein confirmation to produce 
+-
+keywords: video, MOV, MP4, print, poster, photography, party, flyer, promotion
+-
+writeup:
+**Ribosomal Robotics is a next-generation design and manufacturing platform that uses a** 
