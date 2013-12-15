@@ -3,9 +3,6 @@ title: SONAR & Submerged Sculpture
 date: 2009, Jan- 2012, May
 -
 content: 
-I worked with UGA Sculpture Professor RG Brown, in what he calls his 'artistic research'. Collaborating with researchers in Geology, Geography, and Music, we sought to apply remote sensing technologies to the imaging of submerged or buried sculpture, and produced multiple works that represented these captured datasets as physical forms.
+I worked with UGA Sculpture Professor RG Brown, in what he calls his 'artistic research'. Collaborating with researchers in the Departments of Geology, Geography, and Music, we sought to apply remote sensing technologies to the imaging of submerged or buried sculpture, and produced multiple works that represented these captured datasets as physical forms.
 -
 keywords: sonar, remote sensing, sculpture, cartography, graphics
--
-writeup: 
-This is a hard project to summarize. It was the longest work I performed for my undergraduate, long enough that it began to reflect my own intellectual development, rather than just form a part of it. 

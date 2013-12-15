@@ -1,4 +1,4 @@
-title: Ribosomal Robotics
+﻿title: Ribosomal Robotics
 -
 date: 2012, Aug–
 -
@@ -8,4 +8,8 @@ A next generation robotics platform that uses the biological process of protein 
 keywords: video, MOV, MP4, print, poster, photography, party, flyer, promotion
 -
 writeup:
-**Ribosomal Robotics is a next-generation design and manufacturing platform that uses a** 
+So imagine you're in deep-space, say as far from the Earth as Saturn is, or about 68 light-minutes (or 1.22 x 10^9 km). Chances are, everything you chose to take with you, all of your food, equipment, and even the environment that transports you, was given alot of thought before you left. After all, if you need anything, it's not like you can just go out and find it. 
+
+Ribosomal Robotics is inspired by this idea. The extreme remoteness of space means that every single thing you bring out to where you are has to maximize its potential or else you are carrying dead weight.  
+
+**The most profound innovation of this process is that it allows the act of _assembly_ to be decoupled from the act of _construction_**
