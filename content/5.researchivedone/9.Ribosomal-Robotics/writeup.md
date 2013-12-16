@@ -8,11 +8,11 @@ One important thing to consider, then, is that digital manufacturing is about **
 
 This confers a few advantages, one of which is really key right now: digital structures are almost perfectly recyclable. You build a thing out of lots of digital elements, you use that thing, then you disassemble it, and use the elements to build something else. Like Legos. Super fancy Legos.
 
+![Perhaps an animated ribosome](http://upload.wikimedia.org/wikipedia/commons/9/94/Protein_translation.gif)
+
 I'm building a manufacturing system that embodies this notion to create fully-actuated robotic organisms with no human input. Instead of Legos, however, I have a different inspiration: molecular biology. Specifically, the ribosome. 
 
 Ribosomes are the machinery that makes life possible. With just 23 basic building blocks, called amino acids, they can assemble the whole myriad of proteins that do pretty much everything a cell needs to do to grow and thrive. They do this by assembling long chains of amino acids together, and letting this chain fold into a configuration that is useful. By changing the order and number of the amino acids that compose the chain, the ribosome can make structures with wildly different sizes, shapes, and chemical properties.
-
-![Perhaps an animated ribosome](http://upload.wikimedia.org/wikipedia/commons/9/94/Protein_translation.gif)
 
 I am using the idea of Ribosomes to make robots that can walk immediately after being printed. To do this, I start with a long strand of dumb material such as aluminum or acrylic, and embed motors and other bits of intelligence at various points in the structure. I then use a 'printer' I've built to bend the dumb parts, skipping the sections that have the smart augmentation. 
 
