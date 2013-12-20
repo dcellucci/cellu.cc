@@ -18,25 +18,47 @@
 				Research
 				<em>Past and Present</em>
 			</h2>
-			<p class="col six"><em>   
+			<p class="col six"><em> 
   
-      <a href="../../about/">About</a>,
+
   
-      <a href="../../contact-me/">Contact</a>,
+
+  
+    <a href="../../about/">About</a>,
+  
+
+  
+    <a href="../../contact-me/">Contact</a>,
   
  </em></p>
 			<hr>
 			<div id="content" class="col seven">
-									<p>This is a hard project to summarize. It was the longest work I performed for my undergraduate, long enough that it began to reflect my own intellectual development, rather than just form a part of it.</p>
-
 				
+				
+					<div id="media">
+  
+    
+	<div class="image">
+		<img src="../../content/5.researchivedone/5.Sonar-Work/R00100.png" alt="SONAR & Submerged Sculpture" width="977" height="109">
+    
+	</div>
+
+  
+  
+  
+  
+  
+  
+  
+</div>
 				
 			</div>
 			<div class="description col three">
 				<p><a href="../../">SONAR & Submerged Sculpture</a></p>
 				<p><em>2009, Jan- 2012, May</em></p>
-				<p><em class="background">&ndash; sonar, remote sensing, sculpture, cartography, graphics</em></p>
-				<p>I worked with UGA Sculpture Professor RG Brown, in what he calls his 'artistic research'. Collaborating with researchers in Geology, Geography, and Music, we sought to apply remote sensing technologies to the imaging of submerged or buried sculpture, and produced multiple works that represented these captured datasets as physical forms.</p>
+				<p><em class="background">&ndash; <p>sonar, remote sensing, sculpture, cartography, graphics</p>
+</em></p>
+				<p>I worked with UGA Sculpture Professor RG Brown, in what he calls his 'artistic research'. Collaborating with researchers in the Departments of Geology, Geography, and Music, we sought to apply remote sensing technologies to the imaging of submerged or buried sculpture, and produced multiple works that represented these captured datasets as physical forms.</p>
 
 			</div>
 			<hr>
@@ -46,4 +68,4 @@
 		</div>
 	</body>
 </html>
-<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->
+<!-- Stacey(2.3.0): 01839f3971e235e8a5be8709c824419c -->

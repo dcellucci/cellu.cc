@@ -18,18 +18,26 @@
 				Research
 				<em>Past and Present</em>
 			</h2>
-			<p class="col six"><em>   
+			<p class="col six"><em> 
   
-      <a href="./about/">About</a>,
+
   
-      <a href="./contact-me/">Contact</a>,
+
+  
+    <a href="./about/">About</a>,
+  
+
+  
+    <a href="./contact-me/">Contact</a>,
   
  </em></p>
 			<hr>
 			<div id="content" class="home col eleven">
-				     <p class="category col two"><em>Things I've Made</em></p>
+				  
+    <p class="category col two"><em>Things I've Made</em></p>
     <ul class="project-list col seven">
-        	<li>
+    
+    	<li>
     		<div class="thumbnail col two">
     			<a href="./thingsivemade/crystal-structures/"><img src="./content/6.thingsivemade/11.crystal-structures/thumb.jpg" alt=""></a>
     		</div>
@@ -39,7 +47,8 @@
     			<p><em class="background">&ndash; diamond, rutile, crystallography, graphics</em></p>
     		</div>
     	</li>
-        	<li>
+    
+    	<li>
     		<div class="thumbnail col two">
     			<a href="./thingsivemade/computational-psychogeography/"><img src="./content/6.thingsivemade/10.computational-psychogeography/thumb.jpg" alt=""></a>
     		</div>
@@ -49,7 +58,8 @@
     			<p><em class="background">&ndash; geography, urbanism, computation, cartography</em></p>
     		</div>
     	</li>
-        	<li>
+    
+    	<li>
     		<div class="thumbnail col two">
     			<a href="./thingsivemade/path-integrals/"><img src="./content/6.thingsivemade/9.path-integrals/thumb.jpg" alt=""></a>
     		</div>
@@ -59,7 +69,8 @@
     			<p><em class="background">&ndash; physics, architecture, quantum mechanics, cartography, google maps hacks</em></p>
     		</div>
     	</li>
-        	<li>
+    
+    	<li>
     		<div class="thumbnail col two">
     			<a href="./thingsivemade/liberty-bell/"><img src="./content/6.thingsivemade/8.liberty-bell/thumb.jpg" alt=""></a>
     		</div>
@@ -71,51 +82,46 @@
     	</li>
     
     </ul>
-       <p class="category col two"><em>Research I've Done</em></p>
+    
+    <p class="category col two"><em>Research I've Done</em></p>
     <ul class="project-list col seven">
-        	<li>
+    
+    	<li>
     		<div class="thumbnail col two">
     			<a href="./researchivedone/Ribosomal-Robotics/"><img src="./content/5.researchivedone/9.Ribosomal-Robotics/thumb.jpg" alt=""></a>
     		</div>
     		<div class="summary col two">
     			<p><a href="./researchivedone/Ribosomal-Robotics/">Ribosomal Robotics</a></p>
     			<p><em>2012, Aug–</em></p>
-    			<p><em class="background">&ndash; video, MOV, MP4, print, poster, photography, party, flyer, promotion</em></p>
+    			<p><em class="background">&ndash; robotics, space, manufacturing, engineering, design, evolution</em></p>
     		</div>
     	</li>
-        	<li>
+    
+    	<li>
     		<div class="thumbnail col two">
     			<a href="./researchivedone/GPR-Work/"><img src="./content/5.researchivedone/7.GPR-Work/thumb.jpg" alt=""></a>
     		</div>
     		<div class="summary col two">
     			<p><a href="./researchivedone/GPR-Work/">Remote Sensing & Sculpture</a></p>
     			<p><em>2009, Dec–</em></p>
-    			<p><em class="background">&ndash; youtube, poster, photography, party, flyer, promotion</em></p>
+    			<p><em class="background">&ndash; remote sensing, sculpture, RADAR, imaging, analysis, music</em></p>
     		</div>
     	</li>
-        	<li>
-    		<div class="thumbnail col two">
-    			<a href="./researchivedone/DFT-Work/"><img src="./content/5.researchivedone/6.DFT-Work/thumb.jpg" alt=""></a>
-    		</div>
-    		<div class="summary col two">
-    			<p><a href="./researchivedone/DFT-Work/">Computational Chemistry</a></p>
-    			<p><em>2009, Jun–</em></p>
-    			<p><em class="background">&ndash; Vimeo, poster, photography, party, flyer, promotion</em></p>
-    		</div>
-    	</li>
-        	<li>
+    
+    	<li>
     		<div class="thumbnail col two">
     			<a href="./researchivedone/Sonar-Work/"><img src="./content/5.researchivedone/5.Sonar-Work/thumb.jpg" alt=""></a>
     		</div>
     		<div class="summary col two">
     			<p><a href="./researchivedone/Sonar-Work/">SONAR & Submerged Sculpture</a></p>
     			<p><em>2009, Jan- 2012, May</em></p>
-    			<p><em class="background">&ndash; sonar, remote sensing, sculpture, cartography, graphics</em></p>
+    			<p><em class="background">&ndash; <p>sonar, remote sensing, sculpture, cartography, graphics</p>
+</em></p>
     		</div>
     	</li>
     
     </ul>
-    
+      
 			</div>
 			<hr>
 			<p id="footer" class="col six">&copy; Copyright Daniel Cellucci 2013 <a class="atom-rss" href="./?/feed/">RSS</a><br>
@@ -124,4 +130,4 @@
 		</div>
 	</body>
 </html>
-<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->
+<!-- Stacey(2.3.0): 01839f3971e235e8a5be8709c824419c -->

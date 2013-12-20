@@ -18,11 +18,17 @@
 				Research
 				<em>Past and Present</em>
 			</h2>
-			<p class="col six"><em>   
+			<p class="col six"><em> 
   
-      <a href="../about/">About</a>,
+
   
-      <a href="../contact-me/">Contact</a>,
+
+  
+    <a href="../about/">About</a>,
+  
+
+  
+    <a href="../contact-me/">Contact</a>,
   
  </em></p>
 			<hr>
@@ -31,6 +37,13 @@
 				<div class="description col six">
 					<h2><a href="../">About</a></h2>
 					<div id="media">
+  
+    
+	<div class="image">
+		<img src="../content/3.about/01.jpg.JPG" alt="About" width="540" height="360">
+    
+	</div>
+
   
   
   
@@ -52,4 +65,4 @@
 		<div>
 	</body>
 </html>
-<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->
+<!-- Stacey(2.3.0): 18f35ec1589987fa860a34d0876ee387 -->

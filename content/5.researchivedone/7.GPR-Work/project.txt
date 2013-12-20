@@ -1,8 +1,9 @@
-title: Remote Sensing & Sculpture
+﻿title: Remote Sensing & Sculpture
 -
 date: 2009, Dec–
 -
 content: 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was the product of a collaboration between UGA Sculpture Professor RG Brown III, UGA Department of Music Student Michael Krzyzaniak and myself. We created a piece based off of a ground penetrating radar sample of a sculpture buried by Prof. Brown. I created the interaction pattern between the underlying data and the produced sound. I used Laplace
+s Equation to calculate the evolution and propagation of a Gaussian Deformation over the potential 
 -
-keywords: youtube, poster, photography, party, flyer, promotion
+keywords: remote sensing, sculpture, RADAR, imaging, analysis, music

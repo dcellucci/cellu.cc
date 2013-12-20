@@ -18,16 +18,23 @@
 				Research
 				<em>Past and Present</em>
 			</h2>
-			<p class="col six"><em>   
+			<p class="col six"><em> 
   
-      <a href="../../about/">About</a>,
+
   
-      <a href="../../contact-me/">Contact</a>,
+
+  
+    <a href="../../about/">About</a>,
+  
+
+  
+    <a href="../../contact-me/">Contact</a>,
   
  </em></p>
 			<hr>
 			<div id="content" class="col seven">
-									<p><img src="../../content/6.thingsivemade/10.computational-psychogeography/corridor.jpg" alt="Alt Text"></p>
+				
+					<p><img src="../../content/6.thingsivemade/10.computational-psychogeography/corridor.jpg" alt="Alt Text"></p>
 
 <p>My interest in the study of the dérive has largely to do with the fact that it is one of the most perfect examples of an experiential process. It manages to take the complex, multifaceted problem of human geography and, through self-experimentation, produce a result that engages the underlying topology of a city’s psychology in an entirely intuitive way. It, like censuses (censi?), surveys, and other traditional means of data collection in the world of cartography, provides the information from which maps can be constructed to represent the data geographically, but it differentiates itself from these other sets in that it seeks to understand the problem of urban cartography from the bottom-up rather than the top-down. It is therefore simultaneously a very powerful and a very limited technique; powerful in that it can collect valuable information on an extremely complex system like an urban space without a large amount of data collection, but limited in that this information is largely anecdotal.</p>
 
@@ -93,4 +100,4 @@ This particular project sought to isolate one single aspect of the dérive exper
 		</div>
 	</body>
 </html>
-<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->
+<!-- Stacey(2.3.0): 18f35ec1589987fa860a34d0876ee387 -->

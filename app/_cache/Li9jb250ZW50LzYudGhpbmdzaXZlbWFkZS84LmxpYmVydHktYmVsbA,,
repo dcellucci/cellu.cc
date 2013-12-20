@@ -18,25 +18,36 @@
 				Research
 				<em>Past and Present</em>
 			</h2>
-			<p class="col six"><em>   
+			<p class="col six"><em> 
   
-      <a href="../../about/">About</a>,
+
   
-      <a href="../../contact-me/">Contact</a>,
+
+  
+    <a href="../../about/">About</a>,
+  
+
+  
+    <a href="../../contact-me/">Contact</a>,
   
  </em></p>
 			<hr>
 			<div id="content" class="col seven">
 				
-									<div id="media">
-      	<div class="image">
+				
+					<div id="media">
+  
+    
+	<div class="image">
 		<img src="../../content/6.thingsivemade/8.liberty-bell/01.jpg" alt="Liberty Bell" width="782" height="954">
     
 	</div>
 
   
   
-      	<div class="media">
+  
+    
+	<div class="media">
 		<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="540" height="600" >
 			<param name="src" value="../../content/6.thingsivemade/8.liberty-bell/2.540x600.mov">
 			<param name="autoplay" value="false">
@@ -68,4 +79,4 @@ The text is my own creation, but the sound comes from the now-retired Gary Koopm
 		</div>
 	</body>
 </html>
-<!-- Stacey(2.3.0): 08373a8bd8aeb2b07e2b6acacd5f0969 -->
+<!-- Stacey(2.3.0): 18f35ec1589987fa860a34d0876ee387 -->
